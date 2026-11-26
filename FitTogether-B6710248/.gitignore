@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+/.runtime/
+/media/
+/backups/
+/frontend/.data/
+/frontend/.nuxt/
+/frontend/.output/
+node_modules/
